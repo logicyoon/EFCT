@@ -11,7 +11,7 @@ All tables in FCT_csv contain this data:
 
 Each column in the .csv tables stands for:
 ```csv
-n_X  n_Y  n_tot  T  A_H  A_H+  A_H2  A_H-  A_H2+  A_He  A_He+  A_He++
+n_X	n_Y	n_tot	T	A_H	A_H+	A_H2	A_H-	A_H2+	A_He	A_He+	A_He++
 ```
 
 Here is the link to the FCT for each radiation profile:
