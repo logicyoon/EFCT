@@ -19,4 +19,4 @@ Here is the link to the FCT for each radiation profile:
 |Blackbody|Constant|Power-law|
 |:---:|:---:|:---:|
 |[B_weak](./FCT_csv/eqtable_b_weak.csv)|[C_weak](./FCT_csv/eqtable_c_weak.csv)|[P_weak](./FCT_csv/eqtable_p_weak.csv)|
-|[B_strong](./FCT_csv/eqtable_b_strong.csv)|[C_weak](./FCT_csv/eqtable_c_strong.csv)|[P_weak](./FCT_csv/eqtable_p_strong.csv)|
+|[B_strong](./FCT_csv/eqtable_b_strong.csv)|[C_strong](./FCT_csv/eqtable_c_strong.csv)|[P_strong](./FCT_csv/eqtable_p_strong.csv)|
