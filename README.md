@@ -1,6 +1,6 @@
-# FractionalCompositionTable
+# EFCT: Equilibrium Fractional Composition Table
 
-This repository provides **Fractional Composition Tables** introduced by Yoon & Kwak (2026, in progress).
+This repository provides **Equilibrium Fractional Composition Tables** introduced by Yoon & Kwak (2026, in progress).
 
 All tables in FCT_csv contain this data:
 
